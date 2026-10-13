@@ -13,7 +13,10 @@ site_theme               : "default" # The available themes options are "default
 title: "Andres Enrique Quintero Santander"
 locale: "en_US"
 meta_description: "Andres Quintero Santander - PhD Candidate in Mathematics at IU Indy / Purdue University. Research in Complex Dynamics & Birational Geometry."
-logo: "bio-photo.jpg" # You can upload a headshot named this later
+logo: "Photo Andres.jpg"
+
+author:
+  avatar: "Photo Andres.jpg"
 
 # Personal info
 author:
